@@ -19,7 +19,9 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator -->
+        <!--step 3 https://mvnrepository.com/artifact/guru.springframework/chuck-norris-for-actuator
+         After copying  the dependency here,
+            open Maven tab and click the 'Reload all Maven Projects' button-->
         <dependency>
             <groupId>guru.springframework</groupId>
             <artifactId>chuck-norris-for-actuator</artifactId>
